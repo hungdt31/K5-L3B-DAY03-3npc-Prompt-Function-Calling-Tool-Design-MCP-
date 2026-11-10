@@ -6,7 +6,7 @@
 - MSSV: 2A202603959
 - Email: 26ai.hungdt2@vinuni.edu.vn
 - GitHub: [hungdt31](https://github.com/hungdt31)
-- Nhóm: 3npc (L3B)
+- Nhóm / Lớp: 3npc / L3B
 
 ## 2. Phần việc phụ trách
 

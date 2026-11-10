@@ -11,7 +11,7 @@
 
 | STT | Họ tên         | MSSV        | Email                        | GitHub                                              | Vai trò |
 | --: | -------------- | ----------- | ---------------------------- | --------------------------------------------------- | ------- |
-|   1 | Đoàn Trí Hùng  | 2A202603959 | koikoidth12@gmail.com        | [hungdt31](https://github.com/hungdt31)             | Nhóm trưởng; baseline, tối ưu prompt / tool declaration v0–v7, eval nhóm, báo cáo B1–B3 |
+|   1 | Đoàn Trí Hùng  | 2A202603959 | 26ai.hungdt2@vinuni.edu.vn   | [hungdt31](https://github.com/hungdt31)             | Nhóm trưởng; baseline, tối ưu prompt / tool declaration v0–v7, eval nhóm, báo cáo B1–B3 |
 |   2 | Ngô Minh Cương | 2A202603954 | 26ai.cuongnm5@vinuni.edu.vn  | [ngominhcuong](https://github.com/ngominhcuong)     | Tool `github_repos`, `pypi_package`; Streamlit UI + deploy; luồng gửi Telegram |
 |   3 | Trần Quang Hà  | 2A202603962 | 26ai.hatq@vinuni.edu.vn      | [tranha1764](https://github.com/tranha1764)         | Tool `hf_models`, `hn_search`; unit test cho 4 tool mới; live chat transcript |
 

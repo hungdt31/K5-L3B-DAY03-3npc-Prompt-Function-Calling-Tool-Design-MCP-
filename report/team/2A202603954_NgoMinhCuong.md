@@ -5,8 +5,8 @@
 - Họ tên: Ngô Minh Cương
 - MSSV: `2A202603954`
 - Email: `26ai.cuongnm5@vinuni.edu.vn`
-- GitHub: `ngominhcuong`
-- Nhóm / Lớp: `3npc`
+- GitHub: [ngominhcuong](https://github.com/ngominhcuong)
+- Nhóm / Lớp: 3npc / L3B
 
 ## 2. Phần việc phụ trách
 

@@ -5,6 +5,8 @@
 - Họ tên: Trần Quang Hà
 - MSSV: 2A202603962
 - Email: 26ai.hatq@vinuni.edu.vn
+- GitHub: [tranha1764](https://github.com/tranha1764)
+- Nhóm / Lớp: 3npc / L3B
 
 ## 2. Phần việc phụ trách
 
