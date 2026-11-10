@@ -34,9 +34,15 @@ UI (`starter_v0/app.py`) cho chọn provider / model / version ở sidebar, hi�
 
 **Link dùng thử (deploy):**
 
-Mở bằng Cloudflare Tunnel trong buổi showdown: `cloudflared tunnel --url http://localhost:8501`. Link `trycloudflare.com` chỉ sống theo phiên chạy trên máy demo nên không còn dùng được sau buổi học; để chấm lại, chạy UI theo lệnh ở trên.
+Nhóm không deploy cố định (Vercel / Streamlit Cloud). Trong buổi Team showdown, UI được chạy trên máy demo và mở cho team khác dùng thử qua Cloudflare Tunnel. Link `https://<random>.trycloudflare.com` do `cloudflared` sinh ngẫu nhiên mỗi lần chạy và chỉ sống trong phiên đó, nên link của buổi showdown không còn hoạt động và không ghi lại ở đây.
 
-URL (phiên showdown): `<điền URL trycloudflare.com đã dùng>`
+Để mở lại link dùng thử, chạy UI theo lệnh ở trên rồi mở tunnel ở một terminal khác:
+
+```bash
+cloudflared tunnel --url http://localhost:8501   # in ra URL https://<random>.trycloudflare.com
+```
+
+Cài `cloudflared`: xem mục "Deploy nhanh để team khác dùng thử" trong [README.md](../../README.md).
 
 ### A2. Tool agent có
 
